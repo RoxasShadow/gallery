@@ -111,7 +111,7 @@
 
 					var backgroundColour = '#000';
 					if (transparent) {
-						backgroundColour = '#fff';
+						backgroundColour = '#000';
 					}
 					img.setAttribute('alt', image.name);
 					$(img).css('position', 'absolute');
